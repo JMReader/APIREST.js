@@ -1,4 +1,4 @@
-# ApiVariada--mongo-node
+# Api rest Node.js, Express, MongoDb
 
 Api rest creada con  node js, mongo db y mongoose con alta, baja y modificacion de 4 clases distintas, que entre las 4 nos serviran para administrar una libreria, una empresa de vuelos y una pequeña ventana de transaccion de monedas (por ejemplo de euros a dolares)
 
