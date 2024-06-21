@@ -4,4 +4,4 @@ Api rest creada con  node js, mongo db y mongoose con alta, baja y modificacion 
 
 Con este proyecto aprendi lo basico del desarrollo de una api Rest web con Node.js y las tecnoplogias antes mencionadas :smile: :dragon:
 
-Para ver un ejemplo de implementacion con frontend: https://github.com/koritacrah/ng_ConsumoApiPropia
+Para ver un ejemplo de implementacion con frontend les dejo este [link](https://github.com/JMReader/ConsumeApiRestPractice)
